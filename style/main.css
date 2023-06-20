@@ -21,7 +21,7 @@ header .container {
 }
 
 header .logo {
-  margin-left: 0.31rem;
+  margin-left: 0.3rem;
   color: #e50914;
   font-size: 3.5rem;
 }
@@ -29,8 +29,8 @@ header .logo {
 header nav a {
   text-decoration: none;
   color: #aaa;
-  padding: .5rem;
-  margin-right: 0.825rem;
+  padding: .4rem;
+  margin-right: 0.625rem;
   border-radius: .4rem;
 }
 
